@@ -16,7 +16,7 @@ function compararCorreos (event) {
        miAviso.textContent = "Las contraseñas deben ser iguales"
      }else{
         miAviso.textContent = "";
-        event.target.submit()
+      //  event.target.submit()
      }
 }
 

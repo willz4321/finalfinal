@@ -7,10 +7,9 @@
 
 @font-face {
     font-family: 'suarez';
-    src: url('../font/rochester-regular.woff') format('woff'),
-         url('../font/rochester-regular.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
+    src: url('../fonts/rochester-regular.woff') ,
+         url('../fonts/rochester-regular.otf') ;
+
 }
 
 /*-- 3-b) Aplicar a los títulos h2 la fuente incorporada  --*/
